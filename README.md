@@ -14,3 +14,5 @@ If youd like to get a hold of me for whatever reason, my email is: maciejrzeznic
 Note most of this github repos and profile needs a tidy clean up. As there is a lot that i am working on, its sometimes difficult to find time, however do attempt to make progress in that regard whenever i can!
 
 Hope you all the best and happy coding!
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Majic2000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
