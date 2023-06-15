@@ -15,6 +15,6 @@ Note most of this github repos and profile needs a tidy clean up. As there is a 
 
 Hope you all the best and happy coding!
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Majic2000&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Majic2000&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Majic2000&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Majic2000/github-readme-stats#gh-dark-mode-only)
+
 
