@@ -16,3 +16,7 @@ Note most of this github repos and profile needs a tidy clean up. As there is a 
 Hope you all the best and happy coding!
 
 
+
+Here are some of quick video snippets to illustrate my work:
+https://github.com/Majic2000/Majic2000/assets/101193801/d162269f-0aee-4626-92bc-9134d62e4f86
+
