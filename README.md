@@ -1,4 +1,4 @@
-### Hey everyone! 👋
+## Hey everyone welcome to my work! 👋
 
 I am a AI driven Data science MSc graduate.
 Holding reposotories are to keep track of my academic work that can be displayed as well as keep a track of my personal work to show to the world.
